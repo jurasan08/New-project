@@ -1,0 +1,1 @@
+https://www.mssqltips.com/sqlservertip/5379/sql-server-common-table-expressions-cte-usage-and-examples/
